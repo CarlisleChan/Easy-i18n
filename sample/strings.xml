@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translate</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">Hello</string>
+    
+    <string name="yes">@string/confirm</string>
+
+    <string name="minutes">%s 分钟</string>
+</resources>
